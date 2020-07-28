@@ -1,3 +1,10 @@
+//Documentation by Keivalya Pandya
+//s -> inital variable (refer method)
+//term -> initial variable
+//fact -> initialisation(aka. flag)
+//x -> function input that is 0.3*%pi or 0.9424777...
+//ea = aka epsilon(a)
+
 s = 1.0
 term = 1.0
 fact = 1.0
