@@ -1,3 +1,6 @@
+//Documentation by Keivalya Pandya
+//Self explanatory for loop program
+
 s=0;
 for i=1:10000
     s=s+1/i^4;
